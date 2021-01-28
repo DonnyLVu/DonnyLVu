@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+ Im Donny, a software developer who wants to creat and tinker with even more apps!
 <!--
 **DonnyLVu/DonnyLVu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
